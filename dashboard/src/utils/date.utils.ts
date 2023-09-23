@@ -1,0 +1,1 @@
+export const compare = (first: Date, second: Date) => first > second ? 1 : -1
